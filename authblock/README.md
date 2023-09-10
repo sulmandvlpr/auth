@@ -1,6 +1,7 @@
 # authblock
 
-A new Flutter project.
+A Chatting App which include Firebase Authentaction For Login/ Sign up, Firebase FireStore for Storing User metadata e.g. Image, name
+Firebase Cloud Messeging For Notifications.
 
 ## Getting Started
 
